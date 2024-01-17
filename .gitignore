@@ -13,7 +13,7 @@ dist
 /core/
 /rendering/
 /utils/
-/index.js
+# /index.js
 /index.d.ts
 /index-bundle.js
 /index-bundle.d.ts
